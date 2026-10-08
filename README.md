@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi welcome👋
+I am Asmau a data analyst
+
+### I am looking to collaborate on
+- Healthcare data
+
+### Ask me about
+- Healthcare in Africe
+
+### Reach me via
+- 📧 ................
+- .................
+
+### healthcare in Africa
+...........................................
+..............................................
+............................................
+
+### Tools I used
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 <!--
 **asmaumomoh/asmaumomoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
